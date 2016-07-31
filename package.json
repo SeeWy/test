@@ -1,0 +1,8 @@
+{
+  "name": "grunt_text",
+  "Version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  }
+}
